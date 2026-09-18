@@ -1,2 +1,1 @@
-$ mkdir nom_repertoire
-$ touch nom_repertoire/nom_fichier 
+$ mkdir nom_repertoire && touch nom_repertoire/nom_fichier.txt

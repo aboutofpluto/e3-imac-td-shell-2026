@@ -1,3 +1,5 @@
 cet exercice est réalisable en faisant...
-soit on peut utiliser la flèche du haut pour revenir a la commande 5 
-ou après avoir afficher l'historique on peut utiliser $ !numerodelacommande
+
+Il faut cliquer sur la flèche vers le haut pour retrouver la commande de l'exo-5.
+OU
+$ !numero_de_commande
