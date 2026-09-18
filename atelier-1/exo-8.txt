@@ -1,1 +1,3 @@
 cet exercice est réalisable en faisant...
+
+flèche du haut puis entrée
