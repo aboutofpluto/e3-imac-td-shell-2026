@@ -1,0 +1,1 @@
+cet exercice est réalisable en faisant la commande history puis !500 si 500 est le numéro de la ligne qui a exécuté la commande de l'exo 5).
