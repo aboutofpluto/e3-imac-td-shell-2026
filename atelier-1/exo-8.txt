@@ -1,1 +1,7 @@
-cet exercice est réalisable en faisant...
+cet exercice est réalisable en faisant :
+
+$history
+$![id]
+Avec [id], nombre entier, numéro de la ligne (exemple $!45)
+
+Ou en utilisant les flèches pour retrouver la commande utilisé pour l'exo 5.
