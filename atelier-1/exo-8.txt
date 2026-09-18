@@ -1,1 +1,5 @@
 cet exercice est réalisable en faisant...
+
+Il faut cliquer sur la flèche vers le haut pour retrouver la commande de l'exo-5.
+OU
+$ !numero_de_commande
