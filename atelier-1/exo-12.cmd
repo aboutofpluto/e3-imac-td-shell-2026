@@ -1,1 +1,1 @@
-rm -r nom_dossier
+$ rm -r nom_dossier

@@ -1,2 +1,2 @@
-cat
-less
+$ cat
+$ less
