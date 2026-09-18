@@ -1,1 +1,1 @@
-$ cat nom_fichier.txt
+$ cat nom_du_fichier 
