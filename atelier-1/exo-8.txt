@@ -1,1 +1,3 @@
 cet exercice est réalisable en faisant...
+soit on peut utiliser la flèche du haut pour revenir a la commande 5 
+ou après avoir afficher l'historique on peut utiliser $ !numerodelacommande

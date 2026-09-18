@@ -1,0 +1,2 @@
+$ mkdir nom_repertoire
+$ touch nom_repertoire/nom_fichier 
