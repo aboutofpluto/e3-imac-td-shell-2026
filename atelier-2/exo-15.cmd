@@ -1,0 +1,1 @@
+$ find /repertoire -type f -name "*.txt"  -mtime -1
