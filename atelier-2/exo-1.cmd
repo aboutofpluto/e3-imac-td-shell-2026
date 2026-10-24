@@ -1,0 +1,1 @@
+$ curl -O https://www.outofpluto.com/media/uploads/formation/shell/intro-shell.zip

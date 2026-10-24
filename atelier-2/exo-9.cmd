@@ -1,0 +1,1 @@
+$ sort nom_fichier.txt | uniq -d

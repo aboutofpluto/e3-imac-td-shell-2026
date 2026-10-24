@@ -1,0 +1,1 @@
+$ comm -12 fichier1.sorted.txt fichier2.sorted.txt
